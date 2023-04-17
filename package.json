@@ -1,0 +1,16 @@
+{
+  "name": "penktadienio_js_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "penktadienio_js_2": "nodemon ./penktadienio_js_2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rolandas <rolandas.tverijonas021@gmail.com> (https://github.com/Rolandas021)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
